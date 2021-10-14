@@ -7,15 +7,23 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          heroku-github-actions sample
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/couch-coding/heroku-actions"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React
+          view codes
+        </a>
+        <a
+          className="App-link"
+          href="https://github.com/couch-coding/heroku-actions"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          view blogs 
         </a>
       </header>
     </div>
