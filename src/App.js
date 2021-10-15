@@ -19,7 +19,7 @@ function App() {
         </a>
         <a
           className="App-link"
-          href="https://github.com/couch-coding/heroku-actions"
+          href="https://couchcoding.kr/blog"
           target="_blank"
           rel="noopener noreferrer"
         >
